@@ -1,2 +1,4 @@
+The younger population may feel overwhelmed by the corporate approach to other job-finder resources, whereas our application would provide a personalized report showing users exactly what suits their interests and qualifications.We approached developing our algorithm with simplicity and adopted a top-down programming architecture to minimize confusion and maintain a level of comprehensiveness. We prioritized certain factors in determining occupational suitability which allowed us to filter out extraneous options and maintain a user-friendly experience.
+
 Click this link to see front-end user interphase (page 16) as well as the paper developed providing further analysis on the algorithms in the code repository
 https://docs.google.com/document/d/1-o-SRU1v4BJsrn7xqTiVz_YVaZcuc-i-f1ubkfMZjXg/edit?usp=sharing
